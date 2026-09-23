@@ -44,5 +44,5 @@ As pastas “Grafo_Listas_Adejacências” e “Grafo_Matriz” contém as imple
 
 18. Remover laços de um grafo 
 
-Escreva um algoritmo para destruir as arestas de um grafo, tornando-o vazio 
+19. Escreva um algoritmo para destruir as arestas de um grafo, tornando-o vazio 
 
